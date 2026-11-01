@@ -21,7 +21,7 @@
 | Directory | Deliverable Front | Contents & Status |
 | :--- | :--- | :--- |
 | 📁 **[`/Readings`](./Readings)** | **Scoping Review** | Literature matrix synthesizing *Patil et al. (2024)*, *Liu et al. (2025)*, *Zaghir et al. (2024)*, and *Wang et al. (2025)*. |
-| 📁 **[`/Coding`](./Coding)** | **Prototyping & Programming** | 4 modular Jupyter Notebooks (`.ipynb`) compatible with Google Colab & Kaggle T4 GPUs, plus Phase 1 evaluation results. |
+| 📁 **[`/Coding`](./Coding)** | **Prototyping & Programming** | 4 modular Jupyter Notebooks (`.ipynb`) compatible with Google Colab & Kaggle T4 GPUs. |
 | 📁 **[`/IEEE_Paper`](./IEEE_Paper)** | **IEEE Paper Writing** | Phase 1 Technical Progress Report, architecture diagrams, and manuscript drafts. |
 
 ---
